@@ -7,3 +7,6 @@ Data preparation process of Lending Club dataset. It only takes 8 out of all col
 - **Tugas 1 - PDIB - Notebook.ipynb**: Notebook of Data Preparation Process (Comments Included)
 - **data-t1.csv**: Raw Dataset
 - **data-t1-result.csv**: Final Dataset (Cleaned & Prepared)
+
+### Disclaimer
+- The full report and comments in the notebook were written in Bahasa Indonesia. Hoping the English version will be available any time soon!
